@@ -5,6 +5,8 @@ def square_array(array)
     arr = [array[counter]**2]
     counter += 1
     array = arr
+    p arr
+    p array
   end
 end
 
