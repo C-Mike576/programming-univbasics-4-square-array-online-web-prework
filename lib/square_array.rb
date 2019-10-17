@@ -7,5 +7,6 @@ def square_array(array)
   end
   p arr
   p array
+  array = arr
 end
 
